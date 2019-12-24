@@ -3,13 +3,13 @@
 """
 
 # For Maverick
-site_prefix = "/wuyuyang2.github.io/"
+site_prefix = "/"
 source_dir = "../src/"
 build_dir = "../dist/"
 index_page_size = 10
 archives_page_size = 20
 enable_jsdelivr = {
-    "enabled":True,
+    "enabled":False,
     "repo": "wuyuyang2/wuyuyang2.github.io@gh-pages"
 }
 
