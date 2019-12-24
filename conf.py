@@ -9,30 +9,30 @@ build_dir = "../dist/"
 index_page_size = 10
 archives_page_size = 20
 enable_jsdelivr = {
-    "enabled": False,
-    "repo": ""
+    "enabled": True,
+    "repo": "wuyuyang2/Blog-With-GitHub-Boilerplate@gh-pages"
 }
 
 # 站点设置
-site_name = "我的个人博客"
+site_name = "ACRDIK's"
 site_logo = "${static_prefix}logo.png"
 site_build_date = "2019-12-18T16:51+08:00"
-author = "熊猫小A"
-email = "hi@imalan.cn"
-author_homepage = "https://www.imalan.cn"
-description = "只坚持一种正义。我的正义。"
-key_words = ['Maverick', '熊猫小A', 'Galileo', 'blog']
+author = "ACRDIK"
+email = "wuyuyang2@qq.com"
+author_homepage = "https://wuyuyang2.github.io/Blog-With-GitHub-Boilerplate"
+description = "wuyuyang。"
+key_words = ['acrdik', 'wyy', '吴禹旸', 'blog']
 language = 'zh-CN'
 external_links = [
     {
-        "name": "Maverick",
-        "url": "https://github.com/AlanDecode/Maverick",
-        "brief": "🏄‍ Go My Own Way."
+        "name": "unsplash",
+        "url": "https://unsplash.com",
+        "brief": "🏄‍ unsplash."
     },
     {
-        "name": "三無計劃",
-        "url": "https://www.imalan.cn",
-        "brief": "熊猫小A的主页。"
+        "name": "百度",
+        "url": "https://www.baidu.com",
+        "brief": "百度。"
     }
 ]
 nav = [
