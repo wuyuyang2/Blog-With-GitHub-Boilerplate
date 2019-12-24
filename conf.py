@@ -9,8 +9,8 @@ build_dir = "../dist/"
 index_page_size = 10
 archives_page_size = 20
 enable_jsdelivr = {
-    "enabled":False,
-    "repo": "wuyuyang2/wuyuyang2.github.io@gh-pages"
+    "enabled":True,
+    "repo": "wuyuyang2/Blog-With-GitHub-Boilerplate@gh-pages"
 }
 
 # 站点设置
