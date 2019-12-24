@@ -6,7 +6,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     
 
     <url>
-        <loc>/wuyuyang2.github.io/about/</loc>
+        <loc>/about/</loc>
         <lastmod>2017-06-28</lastmod>
         <changefreq>always</changefreq>
         <priority>0.8</priority>
@@ -14,14 +14,14 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 
     <url>
-        <loc>/wuyuyang2.github.io/archives/my-first-awesome-post/</loc>
+        <loc>/archives/my-first-awesome-post/</loc>
         <lastmod>2019-12-24</lastmod>
         <changefreq>always</changefreq>
         <priority>0.5</priority>
     </url>
 
     <url>
-        <loc>/wuyuyang2.github.io/archives/typography/</loc>
+        <loc>/archives/typography/</loc>
         <lastmod>2019-12-18</lastmod>
         <changefreq>always</changefreq>
         <priority>0.5</priority>
