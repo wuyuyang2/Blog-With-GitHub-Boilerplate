@@ -10,7 +10,7 @@ index_page_size = 10
 archives_page_size = 20
 enable_jsdelivr = {
     "enabled":True,
-    "repo": "wuyuyang2/Blog-With-GitHub-Boilerplate@gh-pages"
+    "repo": "wuyuyang2/wuyuyang2.github.io@gh-pages"
 }
 
 # 站点设置
@@ -19,7 +19,7 @@ site_logo = "${static_prefix}logo.png"
 site_build_date = "2019-12-24T18:15+08:00"
 author = "ACRDIK"
 email = "wuyuyang2@qq.com"
-author_homepage = "https://wuyuyang2.github.io/Blog-With-GitHub-Boilerplate"
+author_homepage = "https://wuyuyang2.github.io"
 description = "wuyuyang。"
 key_words = ['acrdik', 'wyy', '吴禹旸', 'blog']
 language = 'zh-CN'
