@@ -16,7 +16,7 @@ enable_jsdelivr = {
 # 站点设置
 site_name = "ACRDIK's"
 site_logo = "${static_prefix}logo.png"
-site_build_date = "2019-12-18T16:51+08:00"
+site_build_date = "2019-12-24T18:15+08:00"
 author = "ACRDIK"
 email = "wuyuyang2@qq.com"
 author_homepage = "https://wuyuyang2.github.io/Blog-With-GitHub-Boilerplate"
